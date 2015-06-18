@@ -1,2 +1,3 @@
-# simpletablescore
-simple application for counting points.
+#Simple application for counting points.
+
+Created with love and passion :)
